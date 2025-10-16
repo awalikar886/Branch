@@ -1,4 +1,6 @@
 name="akash"
 usn=141
-print"name";
-print"usn"
+subject="devops"
+print(name);
+print(usn)
+print(subject)
